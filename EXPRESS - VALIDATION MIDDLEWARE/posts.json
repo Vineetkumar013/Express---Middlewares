@@ -1,0 +1,12 @@
+{
+  "posts": [
+    { "id": 4, "title": "tttttt", "content": "jsdvs", "author": "manohar" },
+    { "id": 5, "title": "tttttt", "content": "jsdvs", "author": "manohar" },
+    {
+      "id": 9,
+      "title": "jaishreeram",
+      "content": "ramramaram",
+      "author": "hanuman"
+    }
+  ]
+}

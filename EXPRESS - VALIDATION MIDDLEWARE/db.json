@@ -1,0 +1,74 @@
+{
+    "moviedata" : [
+      {
+        "id": 1,
+        "Name": "Avengers: Endgame",
+        "Rating": 8.5,
+        "Description":
+          "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+        "Genre": "Action, Adventure, Fantasy",
+       " Cast": [
+          "Robert Downey, Jr.",
+          "Chris Evans",
+          "Mark Ruffalo",
+          "Chris Hemsworth"
+        ]
+      },
+      {
+        "id": 2,
+        "Name": "The Land Girls",
+        "Rating": 8.5,
+        "Description":
+          "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+        "Genre": "Action, Adventure, Fantasy",
+       " Cast": [
+          "Robert Downey, Jr.",
+          "Chris Evans",
+          "Mark Ruffalo",
+          "Chris Hemsworth"
+        ]
+      },
+      {
+        "id": 3,
+        "Name": "First Love",
+        "Rating": 8.5,
+        "Description":
+          "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+        "Genre": "Action, Adventure, Fantasy",
+       " Cast": [
+          "Robert Downey, Jr.",
+          "Chris Evans",
+          "Mark Ruffalo",
+          "Chris Hemsworth"
+        ]
+      },
+      {
+        "id": 4,
+        "Name": "I Married a Strange Person",
+        "Rating": 8.5,
+        "Description":
+          "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+        "Genre": "Action, Adventure, Fantasy",
+       " Cast": [
+          "Robert Downey, Jr.",
+          "Chris Evans",
+          "Mark Ruffalo",
+          "Chris Hemsworth"
+        ]
+      },
+      {
+        "id": 5,
+        "Name": "Slam",
+        "Rating": 8.5,
+        "Description":
+          "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+        "Genre": "Action, Adventure, Fantasy",
+       " Cast": [
+          "Robert Downey, Jr.",
+          "Chris Evans",
+          "Mark Ruffalo",
+          "Chris Hemsworth"
+        ]
+      }
+    ]
+  }
